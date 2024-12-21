@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on projects that utilize big data to drive insights and value, particularly in industries like finance, healthcare, and technology.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/contact-sai-mani-teja-reddy)
 - ⚡ Fun fact: Aside from data, I’m an avid photographer and enjoy capturing the minute details of nature through my lens.
-
+- AWS Certified Data Engineer – Associate: [LINK](https://www.credly.com/badges/bc948504-393c-41c6-87a5-52867c154992/public_url)
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
