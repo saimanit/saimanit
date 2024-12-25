@@ -18,7 +18,7 @@
 - ![Tableau](Link_to_Tableau_Icon)
 
 <p align="left">
-  <img src="(https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png)" alt="SQL" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" alt="SQL" width="50" height="50"/>
   <img src="Link_to_Python_Icon" alt="Python" width="50" height="50"/>
   <img src="Link_to_R_Icon" alt="R" width="50" height="50"/>
   <img src="Link_to_AWS_Icon" alt="AWS" width="50" height="50"/>
