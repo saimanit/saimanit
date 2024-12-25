@@ -28,6 +28,17 @@
 </p>
 
 
+<p align="left">
+  <div style="display: inline-block; margin: 5px; background-color: #007396; padding: 10px; border-radius: 5px;">
+    <img src="Link_to_C++_Icon" alt="C++" width="20" height="20" style="vertical-align: middle;"/>
+    <span style="color: white; margin-left: 5px; font-family: Arial, sans-serif;">C++</span>
+  </div>
+  <div style="display: inline-block; margin: 5px; background-color: #f0db4f; padding: 10px; border-radius: 5px;">
+    <img src="Link_to_JavaScript_Icon" alt="JavaScript" width="20" height="20" style="vertical-align: middle;"/>
+    <span style="color: white; margin-left: 5px; font-family: Arial, sans-serif;">JavaScript</span>
+  </div>
+  <!-- Repeat blocks for each skill, changing the background color and links as necessary -->
+</p>
 
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
