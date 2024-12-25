@@ -9,6 +9,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/contact-sai-mani-teja-reddy)
 - ⚡ Fun fact: Aside from data, I’m an avid photographer and enjoy capturing the minute details of nature through my lens.
 
+
+## Technologies I Know
+- ![SQL](Link_to_SQL_Icon)
+- ![Python](Link_to_Python_Icon)
+- ![R](Link_to_R_Icon)
+- ![AWS](Link_to_AWS_Icon)
+- ![Tableau](Link_to_Tableau_Icon)
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
