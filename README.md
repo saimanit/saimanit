@@ -11,7 +11,7 @@
 
 
 ## Technologies I Know
-- ![SQL](Link_to_SQL_Icon)
+- ![SQL](https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png)
 - ![Python](Link_to_Python_Icon)
 - ![R](Link_to_R_Icon)
 - ![AWS](Link_to_AWS_Icon)
