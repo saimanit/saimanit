@@ -25,9 +25,10 @@
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/tableau-auto.svg" alt="Tableau" width="50" height="50"/>
 
 </p>
-[![mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimanit)](https://github.com/saimanit/github-readme-stats)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=saimanit&show_icon=true"/>
+
+
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
