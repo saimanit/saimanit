@@ -22,7 +22,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="Link_to_Python_Icon" alt="Python" width="50" height="50"/>
   <img src="Link_to_R_Icon" alt="R" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
   <img src="Link_to_Tableau_Icon" alt="Tableau" width="50" height="50"/>
 </p>
 <!---
