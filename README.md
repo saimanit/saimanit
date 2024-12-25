@@ -20,10 +20,11 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="Link_to_Python_Icon" alt="Python" width="50" height="50"/>
-  <img src="Link_to_R_Icon" alt="R" width="50" height="50"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azure-auto.svg" alt="AZURE" width="50" height="50"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/s3-auto.svg" alt="S3" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="Link_to_Tableau_Icon" alt="Tableau" width="50" height="50"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/tableau-auto.svg" alt="Tableau" width="50" height="50"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/databricks-auto.svg" alt="databricks" width="50" height="50"/>
 </p>
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
