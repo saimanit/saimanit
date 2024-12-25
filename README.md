@@ -28,8 +28,8 @@
 </p>
 
 
-<img alt = 'my stats" src ="https://github-readme-stats.vercel.app/api?username=saimanit&show_icon=true"/>
-
+<img src ="https://github-readme-stats.vercel.app/api?username=saimanit&show_icon=true"/>
+https://github-readme-stats.vercel.app/api?username=saimanit&show_icon=true%22/%3E
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
