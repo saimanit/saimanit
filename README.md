@@ -28,7 +28,7 @@
 </p>
 
 
-[![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimanit)](https://github.com/saimanit/github-readme-stats)
+<img alt = 'my stats" src ="https://github-readme-stats.vercel.app/api?username=saimanit&show_icon=true"/>
 
 <!---
 saimanit/saimanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
