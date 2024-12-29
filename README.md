@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Aside from data, I’m an avid photographer and enjoy capturing the minute details of nature through my lens.
 
 
-## Technologies I Know
+## Technologies Worked with
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" alt="R" width="50" height="50"/>
