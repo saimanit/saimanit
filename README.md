@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Sai Mani Teja Reddy
 - 💼 I’m a seasoned Data Engineer and Software Developer
-- 📜AWS Certified Data Engineer – Associate: [LINK](https://www.credly.com/badges/bc948504-393c-41c6-87a5-52867c154992/public_url)
 - 🔭 specializing in data-intensive applications and AI-driven analytics.
 - 🌱 Enthusiast in Data Science and Artificial Intelligence.
 - 👀 I’m interested in big data technologies, machine learning projects, and innovative AI applications.
 - 🌱 I’m currently learning advanced techniques in machine learning and cloud architectures to enhance scalable data solutions.
 - 💞️ I’m looking to collaborate on projects that utilize big data to drive insights and value, particularly in industries like finance, healthcare, and technology.
 - ⚡ Fun fact: Aside from data, I’m an avid photographer and enjoy capturing the minute details of nature through my lens.
+- 📜AWS Certified Data Engineer – Associate: [LINK](https://www.credly.com/badges/bc948504-393c-41c6-87a5-52867c154992/public_url)
+- 📜 SQL (Intermediate) Certificate: [LINK](https://www.hackerrank.com/certificates/c21f7281a897)
 
 
 ## Technologies Worked with
