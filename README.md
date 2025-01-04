@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sai Mani Teja Reddy
 - 💼 I’m a seasoned Data Engineer and Software Developer
+- 
 - 🔭 specializing in data-intensive applications and AI-driven analytics.
 - 🌱 Enthusiast in Data Science and Artificial Intelligence.
 - 👀 I’m interested in big data technologies, machine learning projects, and innovative AI applications.
@@ -10,7 +11,19 @@
 - 📜 Academy Accreditation - Databricks Fundamentals [LINK](https://credentials.databricks.com/4bcf8850-2e70-42d7-b519-833ef7278420#acc.lBCETveq)
 - 📜 SQL (Intermediate) Certificate: [LINK](https://www.hackerrank.com/certificates/c21f7281a897)
 
+<h1 align="center">Hi 👋, I'm mani teja</h1>
+<h3 align="center">A passionate developer from India</h3>
+<(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanit&label=Profile%20views&color=0e75b6&style=flat" alt="saimanit" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimanit" alt="saimanit" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimanit&show_icons=true&locale=en" alt="saimanit" /></p>
 
 ## Technologies Worked with
 <p align="left">
