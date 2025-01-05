@@ -9,6 +9,7 @@
 - 📜AWS Certified Data Engineer – Associate: [LINK](https://www.credly.com/badges/bc948504-393c-41c6-87a5-52867c154992/public_url)
 - 📜 Academy Accreditation - Databricks Fundamentals [LINK](https://credentials.databricks.com/4bcf8850-2e70-42d7-b519-833ef7278420#acc.lBCETveq)
 - 📜 SQL (Intermediate) Certificate: [LINK](https://www.hackerrank.com/certificates/c21f7281a897)
+- Portfolio: [LINK](https://maniteja-profile.netlify.app)
 
 
   
