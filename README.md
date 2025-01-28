@@ -1,13 +1,11 @@
 - 👋 Hi, I’m Sai Mani Teja Reddy
-- 💼 I’m a Data Engineer and Software Developer <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 💼 I’m a Software Developer <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 specializing in data-intensive applications and AI-driven analytics.
 - 🌱 Enthusiast in Data Science and Artificial Intelligence.
 - 👀 I’m interested in big data technologies, machine learning projects, and innovative AI applications.
 - 🌱 I’m currently learning advanced techniques in machine learning and cloud architectures to enhance scalable data solutions.
 - 💞️ I’m looking to collaborate on projects that utilize big data to drive insights and value, particularly in industries like finance, healthcare, and technology.
-- ⚡ Fun fact: Aside from data, I’m an avid photographer and enjoy capturing the minute details of nature through my lens.
-- 📜 Academy Accreditation - Databricks Fundamentals [LINK](https://credentials.databricks.com/4bcf8850-2e70-42d7-b519-833ef7278420#acc.lBCETveq)
-- 📜 SQL (Intermediate) Certificate: [LINK](https://www.hackerrank.com/certificates/c21f7281a897)
+
 
 
 
