@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sai Mani Teja Reddy
-- 💼 I’m a Software Developer <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 💼 I’m a Software Developer and Data Engineer <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 specializing in data-intensive applications and AI-driven analytics.
 - 🌱 Enthusiast in Data Science and Artificial Intelligence.
 - 👀 I’m interested in big data technologies, machine learning projects, and innovative AI applications.
